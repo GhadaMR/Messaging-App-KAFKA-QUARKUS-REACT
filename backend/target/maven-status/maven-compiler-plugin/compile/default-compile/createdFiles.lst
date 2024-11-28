@@ -1,0 +1,4 @@
+org\acme\MessageConsumer.class
+org\acme\MessageProducer.class
+org\acme\Message.class
+org\acme\MessageResource.class
